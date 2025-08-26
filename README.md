@@ -8,6 +8,8 @@ A live dashboard for real-time urban navigation, combining YOLOv11-driven percep
 Machine Learning, Deep Learning & NLP Enthusiast  
 [GitHub profile](https://github.com/Irteeja)
 
+**Bushra Tabassum (Bushra)**
+Researcher Biomedical signal processing,  Ai In Healthcare, Digital Twin.
 ---
 
 ## Overview
