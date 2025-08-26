@@ -1,4 +1,11 @@
+<p align="center">
+  <img width="1888" height="874" alt="image" src="https://github.com/user-attachments/assets/91cc6d85-1332-4049-af15-c9ffe6274fb7" />
+</p>
+
+
+
 # Urban-Navigation-Dashboard
+
 
 A live dashboard for real-time urban navigation, combining YOLOv11-driven perception with live weather feeds to support adaptive routing and safer mobility.
 
