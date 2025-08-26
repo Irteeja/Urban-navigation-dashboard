@@ -2,7 +2,6 @@
 
 A live dashboard for real-time urban navigation, combining YOLOv11-driven perception with live weather feeds to support adaptive routing and safer mobility.
 
-## Author
 
 ## Authors  
 
